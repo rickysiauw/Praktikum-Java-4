@@ -7,7 +7,7 @@ package InsertData;
 
 /**
  *
- * @author LENOVO
+ * @author RICKY
  */
 public class FrameInsertData extends javax.swing.JFrame {
 
